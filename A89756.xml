@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse made by Capt. Robert Norwood on Wednesday last, the 28 of January, 1651. in the Upper-Bench-Court at Westminster: with some arguments by him then given, in defence of himself, and prosecution of his writ of errour by him brought upon an indictment found and adjudged against him upon the act against blasphemy, at the sessions in the Old-Bayly, London, in August last. Some small addition, by way of illustration, is made, to what was then delivered; but nothing as to the substance of the matter. He is to appear again in the same court on Wednesday next in the morning, being the 3 of February; where also one M. Tany, who was joyned in the same indictment and judgement, having not yet made his defence, is to appear, and make his defence also. The arguments may deserve some consideration: the strength and weight of them I submit to the judgement of all, and the whole matter to the inspection of the sage and judicious.</title>
+            <author>Norwood, Robert, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89756</idno>
+            <idno type="STC">Wing N1380</idno>
+            <idno type="STC">Thomason E652_11</idno>
+            <idno type="STC">ESTC R205895</idno>
+            <idno type="EEBO-CITATION">99865127</idno>
+            <idno type="PROQUEST">99865127</idno>
+            <idno type="VID">166042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166042)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E652[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse made by Capt. Robert Norwood on Wednesday last, the 28 of January, 1651. in the Upper-Bench-Court at Westminster: with some arguments by him then given, in defence of himself, and prosecution of his writ of errour by him brought upon an indictment found and adjudged against him upon the act against blasphemy, at the sessions in the Old-Bayly, London, in August last. Some small addition, by way of illustration, is made, to what was then delivered; but nothing as to the substance of the matter. He is to appear again in the same court on Wednesday next in the morning, being the 3 of February; where also one M. Tany, who was joyned in the same indictment and judgement, having not yet made his defence, is to appear, and make his defence also. The arguments may deserve some consideration: the strength and weight of them I submit to the judgement of all, and the whole matter to the inspection of the sage and judicious.</title>
+                  <author>Norwood, Robert, Captain.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "February.1.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Blasphmy) --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166042:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOURSE Made by Capt. <hi>ROBERT NORWOOD</hi> on Wedneſday laſt, the 28 of <hi>January,</hi> 1651. in the Upper-Bench-Court at <hi>WESTMINSTER:</hi>
+            </p>
+            <p>With ſome Arguments by him then given, in defence of himſelf, and proſecution of his Writ of Errour by him brought upon an Indictment found and adjudged againſt him upon the Act againſt Blaſphe<g ref="char:EOLhyphen"/>my, at the Seſſions in the Old Bayly, <hi>London,</hi> in <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> laſt.</p>
+            <p>Some ſmall Addition, by way of Illuſtration, is made, to what was then delivered; but nothing as to the ſubſtance of the matter.</p>
+            <p>He is to appear again in the ſame Court on Wedneſday next in the morning, being the 3 of <hi>February;</hi> where alſo one M. <hi>Tany,</hi> who was joyned in the ſame Indictment and Judgement, ha<g ref="char:EOLhyphen"/>ving not yet made his Defence, is to appear, and make his Defence alſo.</p>
+            <p>The Arguments may deſerve ſome conſideration: the ſtrength and weight of them I ſubmit to the judgement of All, and the whole matter to the inſpection of the ſage and judicious.</p>
+            <p>Imprinted at <hi>London,</hi> 
+               <add>February. 1.</add> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166042:2"/>
+            <pb n="1" facs="tcp:166042:2"/>
+            <head>A DISCOURSE made by Captain ROBERT NORWOOD.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Shall preſume by your Honours favour, in the purſuance of my own right, to ſpeak a few words to thoſe three particulars aſ<g ref="char:EOLhyphen"/>ſigned by my Counſel for Errour in the Indictment framed againſt me. I know the buſineſs hath already been tedious and trouble<g ref="char:EOLhyphen"/>ſome enough to your Lordſhip and the Court; but it hath been much more ſo to me, and extreme chargeable alſo: nay, my Lord, it hath hazarded my utter ruine. I ſhall be very brief: and if in any thing I ſhall tranſgreſs the rules of Reaſon and Moderation, I ſhall readily receive a check from your Lordſhip.</p>
+            <p>
+               <seg rend="decorInit">T</seg>The firſt error ſigned by my Councel, is, that <hi>two ſhould be put in one Inditement, their charge being ſeverall.</hi>
+            </p>
+            <p>That it is error, I ſhall make manifeſt, thus:</p>
+            <p>Firſt, the one is made uncapable of his defence accor<g ref="char:EOLhyphen"/>ding to Law, by traverſe, Writ of error, or otherwiſe, without the conſent of the other; for 'tis his Inditement as well as mine: and thereby have I a manifeſt injury done me, which the Law allowes not; and hereby is one Law made to thwart, contradict, and fight againſt another; and my right in the Law is wholly taken away, and deſtroyed, by this joynt Inditement; I being hereby cut off from making my legal defence, without the approbation and conſent of the other; for he is every way joyntly intereſted with my ſelf, by this joynt Inditement. The Law ſaith, You may traverſe, or bring your Writ of error, without the conſent, concurrence, or hinderance of any; but this joynt In<g ref="char:EOLhyphen"/>ditement ſayth, No; you ſhall not, except the other party will conſent and agree alſo: and if he will never conſent, I muſt never have the benefit of that remedy for making my defence which the Law allowes me.</p>
+            <p>Secondly, Again, ſuppoſe I have his conſent and approbation; yet if the other be either unwilling or unable as to the charge, I muſt be at the clarge
+<pb n="2" facs="tcp:166042:3"/>
+of the whole; when as perhaps 2 <hi>l.</hi> might bear the charge of what is laid down againſt me, 25 will not bear the charge of taking out, transfering the Records, and the like. And hereby is a moſt great and manifeſt injury and wrong done and committed: for he who hath 5 <hi>l.</hi> may not have 10 <hi>l.</hi> or 25: and here by becomes it moſt unjuſt and illegall, to put another mans burthen upon my back; contrary to the very end of the Law, which in all things is to ſave, not to deſtroy; yet hereby am I deſtroyed, though through no fault or fayling of my owne.</p>
+            <p>Thirdly, One may be found guilty, the other not: yet he that is guilt<g ref="char:EOLhyphen"/>leſs, muſt be forced to bear the charge of him that is guilty. Many other in<g ref="char:EOLhyphen"/>conveniencies neceſſarily ariſe from hence, which your Lordſhip is better ac<g ref="char:EOLhyphen"/>quainted withall then my ſelf.</p>
+            <p>Fourthly, The fourth is that which Judge <hi>Nicols</hi> the laſt Term rightly and truly obſerved; and that was this: That the Judgment given upon that Inditement muſt be falſ: for the Inditement being joynt, the Judg<g ref="char:EOLhyphen"/>ment muſt be joynt alſo: and the Judgement given according to the Act, is, that we muſt remaine Priſoners after the expiration of the time limited in the Act, until we have given ſecurity for our good behaviour for 12 months after: And, as Judge <hi>Nicols</hi> then obſerved, in caſe the one party could not or would not finde Sureties at the time, yet muſt the other remaine Pri<g ref="char:EOLhyphen"/>ſoner until he can or will: if he never will or can, that other muſt ever remain Priſoner, at leaſt, untill his death. Thus of neceſſity muſt there be and is a falſ and erroneous Judgement paſſed, centrary to the Act, upon this joynt Inditement; and there by the true intent of the Law, and ſo the Law it ſelf, deſtroyed.</p>
+            <p>Something your Lordſhip obſerved the laſt day, which I neither very well heard, nor underſtood: But, as I take it, it was of two being joyntly indited for Perjury. My Lord, if it were Perjury of one and the ſame kind; in one and the ſelf-ſame matter, and no ſubſequent act to be performed by them afterwards, wherein there is neceſſarily required the concurrence of the other, and without which the other cannot performe what by the Judgement in Law he is bound to doe; then perhaps in ſome ſence it might be good: But, my Lord, my caſe is otherwiſe; for I muſt ſtill remain Priſoner by that Judgement, when I have performed what by the Judge<g ref="char:EOLhyphen"/>ment in Law, I for my part am injoyned; and that untill he have done ſo alſo: and by this meanes, a falſe or wrongfull Impriſonment muſt of ne<g ref="char:EOLhyphen"/>ceſſity be ſuſtained by me: and I ſhall not need to tell your Lordſhip how tender the Law is of impriſoning any; it allowes impriſonment onely in ex<g ref="char:EOLhyphen"/>traordinary caſes, for extraordinary ends: The ſpeciall care and proviſion made as to Liberty, is even to be admired; and how great a penalty the Law inflicts for falſe impriſonment, no leſſe then 5 <hi>l.</hi> an hour. Beſides, my Lord, Reaſon is a ſurer and better ground then bare Preſident: for Reaſon carries light with it; bare Preſident is dark, therefore deceitfull. And verily my Lord, it were much for your Honour, nay for your own and your poſterities ſafety and happineſs, that the Law were made to ſpeak, and give forth its entire unity, and ſimple integtity; and not made thus to claſh againſt it ſelf.
+<pb n="3" facs="tcp:166042:3"/>
+My Lord, the next thing ſigned by my Counſel for error, is, that <hi>the Inditement throughout is ſupplyed with theſe words [meaning ſo and ſo:] as thus: He ſpoke ſuch words, meaning ſo and ſo, as it's laid down in the Indilement.</hi> You know, my Lord, all Inditements ought to be poſitive &amp; certain; how elſe can a certain, poſitive, and true Judgment be given? For, my Lord, upon an uncertain thing, you can<g ref="char:EOLhyphen"/>not poſſibly, in any caſe, fix a certain and poſitive Determination and Judge<g ref="char:EOLhyphen"/>ment: and, in truth, when any other fixes or puts a meaning upon my words, they then ceaſe to be mine, and become indeed and properly his, who gave or fixed that meaning unto them: they are in truth his invention or imagination, and none of my words. And we know how familiar it is to miſtake men, not onely in their words, but their writings alſo; and then am I condemned for another mans words, or upon the bare fancy or imagination of another; which the Law by no meanes allowes; and I hope this Court will be ſo far from juſtifying the truth and legality hereof, that it will manifeſt, by ſome more then ordinary way, the horrible vileneſs and illegality of ſuch a proceeding againſt any: For if this once be allowed, a flood-gate is ſet open to all malice and envy, to vent it ſelf upon any whom it hath a minde to deſtroy: none may preach, none diſpute, no nor ſo much as converſe one with another. And if this be not deſtructive to humane ſociety, I know not what is.</p>
+            <p>The third and laſt is, that <hi>there is not one thing in the whole Indilement charged againſt me, comes within the compaſs of the Act by which I was tryed, Judged, and condemned.</hi>
+            </p>
+            <p>That which Judge <hi>Asks</hi> on Saturday ſeemed to be unſatisfied in, whether it came within the compaſs of the Act or no, was this; where it's ſaid that I ſhould ſay <hi>the ſoul is of the eſſence of God;</hi> which charge is alſo ſupplyed with theſe words, <hi>meaning the ſoul of men and women.</hi> Now, my Lord, there are other Creatures which have ſouls, beſides men and women; there are celeſtial as well as terreſtrial Creatures: and God himſelf in Scripture is ſaid to have a ſoul: it's ſaid that he <hi>repented that he made man, and it grieved him at the heart,</hi> or <hi>ſoul</hi> (for ſo the original word <hi>Kevah</hi> ſignifies.) But ſup<g ref="char:EOLhyphen"/>poſe I ſhould mean it of the ſouls of men and women; it remaines to be proved that it is a meer Creature: I dare not ſay it: for, firſt, we all ſay the ſoul is immortal; and if immortal, then no meer Creature: for every meer creature is ſubjected unto death. And the ſpirit was breathed into man after he was made; it's ſaid, <hi>God made man, and</hi> then <hi>breathed into him the breath of life, and he became a living ſoul.</hi> The beſt interpreters read it thus: <hi>And it became his life,</hi> or <hi>his ſoul.</hi> And there is in man not onely a Vegetative ſoul or ſpirit, but a Senſitive alſo; and not onely a Vegetative and Senſitive, but a Rational Soul or ſpirit alſo, yea, and a divine Soul; elſe could he not ſee or know divine things: for nothing can poſſibly ſee or know beyond its own ſphere, beyond its own nature or property. And it's ſaid, <hi>Exceeding great and pretious promiſes are given to us, that thereby we may be partakers of the divine nature.</hi> And let any man prove that which is there ſaid to be breathed into man, which I call the ſoul, to be a meer creature, and I am content not onely to ſuffer 12 Months more impriſonment, but forſeit my eſtate alſo; pro<g ref="char:EOLhyphen"/>vided, if he do not, he may ſuffer but 6 Months impriſonment, in the ſame place and manner <hi>Tany</hi> hath done.</p>
+            <p>
+               <pb n="4" facs="tcp:166042:4"/>
+But againe, my Lord, ſuppoſe it were a meer creature; yet is it not ſaid in the Inditement that I ſaid it was very God, or that it is Infinite, or Al<g ref="char:EOLhyphen"/>mighty; or in honour, excellency, majeſty, and power, equal with the true God: which I muſt have avowedly ſaid, to have made me guilty of the breach of that Act. No man ought to draw inferences, make conſequences, or concluſions, from penal Acts, eſpecially an Act of this nature, ſo ſtrictly boun<g ref="char:EOLhyphen"/>ded as this is: It muſt be a <hi>meer creature</hi> that muſt be avowedly ſaid to be <hi>very God;</hi> it muſt not be of things diſputable; neither may any man ſtretch out or tenter the Law, to make an offender; but the Law muſt plainly and evidently ſee, know, and finde him ſo: All Inditements ought clearly and fairly to anſwer the letter of the Act; even as a pair of Indentures anſwer each other. And the words in the Act immediately following, (where its ſaid, that <hi>whoſeover ſhall ſay that the true God, or the Eternall Majeſty, dwels in the Creature, and nowhere elſe)</hi> ſtrongly imply, nay fully grant and conclude, that the true God, or the Eternal Majeſty, doth dwell in the creature. Then how he dwells in that creature, but as the very alone life and ſoul of it, I would faine underſtand from any. So that I am hereby ſo far from be<g ref="char:EOLhyphen"/>ing found a breaker of the Act, that (if duly conſidered and examined) the Act it ſelf is a proof for, and juſtification of my ſayings.</p>
+            <p>The Act runs thus: <hi>That he who ſhall avowedly ſpeak, or by writing proceed to affirm, that,</hi> as aforeſaid, <hi>any meer creature is very God;</hi> and not not he who ſhall ſay <hi>the Soul is of the eſſence of God, ſhall ſuffer</hi> ſo and ſo, as is therein expreſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>I ſhall give the judgement and opinion onely of one Gentleman in the point, though I could produce thouſands; and that is of M. <hi>Francis Rous</hi> a pre<g ref="char:EOLhyphen"/>ſent Member of this preſent Parliament: I ſhall given you his own expreſſe words, as you ſhall finde them in his book intituled, <hi>The Myſtical Marriage:</hi> he faith the Soul came or was breathed into man from God, is of a divine and heavenly eſſence, or of the eſſence of God.</p>
+            <p>In the very beginning of it, theſe are his words: <hi>I was,</hi> ſaith he, (ſpeaking of the Soul) <hi>firſt breathed from heaven; I came from God; I am divine and heavenly in my orginal, in my eſſence, in my character, therefore my happineſs muſt be divine and heavenly: for to a divine and heavenly eſſence, can agree no other but a divine and heavenly happineſs.</hi> In the 25 page of his book, he calls the Soul <hi>the noble and divine eſſence which was breathed into man even from Gods own mouth.</hi> In the 24 page, he hath it thus: <hi>It is then a right, kindly, and bleſſed marriage, when the derived ſpirit</hi> (ſpeaking of the Soul) <hi>marries with the original and roote of ſpirits.</hi> In the 45 page, ſpeaking of Chriſt, he ſpeaks thus: <hi>When he gave light and glory, heauty and joy to the creature, he left the root thereof in him<g ref="char:EOLhyphen"/>ſelf: ſo he did leav more in himſelf, then he gave out of himſelf: for an internal, infi<g ref="char:EOLhyphen"/>nite fountain, hath infinitely more in it then all the ſtreams that even iſſued from it.</hi>
+            </p>
+            <p>And in the next place, my Lord, he that ſhall ſpeak or write, as afore<g ref="char:EOLhyphen"/>ſaid, that <hi>there is neither Heaven nor Hell, neither Salvation nor Damnation,</hi> is condemned by that Act; and not he who ſhall onely ſay <hi>there is nobell nor domnation,</hi> as in the Inditement its ſaid I ſhould ſay: for that a man may truly and really ſay, yea and affirm too, and that according to the Scriptures;
+<pb n="5" facs="tcp:166042:4"/>
+for there is not to him who is in Chriſt: there is no contlemnation to ſuch, then no hell: ſo likewiſe there is no ſalvation, and ſo no heaven; to any one of Chriſt; for, as the Scripture teſtifies, <hi>he who beleeves not, is condemned already;</hi> ſo that the disjunctive denial of either, is neither contrary to the Act, nor the Scriptures themſelves; wherefore it is, that they are well and truly laid down in the Act conjunctively: and for any one to make that a disjunctive; which the Par<g ref="char:EOLhyphen"/>liament, from true and due grounds in Scripture, hath made ſo plain and vi<g ref="char:EOLhyphen"/>ſible a conjunctive, is to obtrude another Law upon the people, then the people in Parliament have ordained and inacted to and for themſelves; and to give forth any other Law then the People in Parliament ordain, enact, or appoint, or the ſame Law in any other terms, is a far higher degree of Treaſon then to coin another metal then is by them ordained and appointed, or the ſame metal with any other ſtamp. As it then ceaſes to be the States Coyn, when another ſtamp is put upon it, and becomes his or theirs who gave or fixed a<g ref="char:EOLhyphen"/>nother ſtamp upon it; even ſo the Law ceaſes to be the peoples in Parliament, and becomes his or theirs who gives it forth in other terms then they have done: neither may or ought the people to receive it in any other terms, or with any other ſtamp, then the Parliament hath given. Hence it is, that no Parlia<g ref="char:EOLhyphen"/>ment ever yet allowed any to interpret their Acts; themſelves onely are and can be interpreters of their own Acts. Therefore, whoſoever ſhall put his own or anyother mans ſence or interpretation upon any penal Stature as in this caſe, and paſs Judgment &amp; Sentence upon the ſame, doth therby make himſelf guilty of treaſon; for he tries, judges, paſſes ſentence, and condemns, not by, in, and from the right, power, and law of the people in Parliament, but in, from, and by his own right and power; and therein and thereby is the Legiſlator to, and ſo King of the People and Parliament.</p>
+            <p>My Lord, theſe things were aſſigned by my Counſel the laſt Term; for Errors; and I take my Counſell to be a man of ſuch honour and honeſty, as that he will not aſſigne that for Error, which he will not by Law make appear to be ſo: I have hitherto found no other from him; and I ſuppoſe he hath proved to your Lordſhip and the Court, that the Indictment is wholly and al<g ref="char:EOLhyphen"/>together erroneous, and the Judgement thereupon given, falſe.</p>
+            <p>My Lord, Impriſonment proves oftentimes worſe then death it ſelf; it ruines not onely the particular perſons impriſoned, but moſt commonly whole families alſo; and this my almoſt ſix months impriſonment might have rui<g ref="char:EOLhyphen"/>ned a man of a far greater eſtate then my ſelf. The Common wealth is a loſer, and oftentimes is extremely prejudiced by mens impriſonment, they being thereby not onely made uncapable of doing it ſervice, either in their ſeveral occupations, employments, and callings, or other ſervices it hath occaſion to uſe them in; but alſo themſelves and families are thereby made burden ſome to it; and the Commonwealth ever takes account of its members: therefore it is, as I ſaid before, that the Laws have ſo admirably provided in the caſe, inſomuch that it impriſons none, but ſuch as are deſtructive to themſelves and the Com<g ref="char:EOLhyphen"/>monwealth; and it giveth liberty, upon Bayl, even to Felons and Traytors; and the Law doth nothing but what it hath a reaſon for; therefore, as I ſaid before, Reaſon is a better and ſurer ground then bare Preſident.</p>
+            <p>
+               <pb n="6" facs="tcp:166042:5"/>
+My Lord, you know you may neither deny nor defer Juſtice to any: I have lien a long time ſince I brought my Writ of Error, and that the errors ſigned by Counſel were given into Court. I pray, my Lord, that nothing already done by any in this buſineſs, nor what may follow after, may have the leaſt influence upon your Lordſhip and the Court; but that you will do Juſtice for Juſtice ſake: He that hath not tranſgreſſed the Law, ought to have protection from and by the Law: your Lordſhip and the Court is more concerned herein then my ſelf. Wherfore, my Lord, I humbly beg your Lord<g ref="char:EOLhyphen"/>ſhips and the Courts judgement and determination in the caſe, according to equity, Law, and good conſcience; having already ſuffered ſo long an impriſonment upon a meer ſcandalous Paper: I cannot yet call it otherwiſe: for whatever Charge by way of Inditement is framed againſt a man, if it be not upon all accounts juſt, true and legal, in all the particulars of it, it cannot in truth be called other: and I ſuppoſe both the untruth and illega<g ref="char:EOLhyphen"/>lity, the erronouſneſs of the Inditement, and falſneſs of the Judgement, is abundantly evidenced to your Lordſhip and the Court.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
